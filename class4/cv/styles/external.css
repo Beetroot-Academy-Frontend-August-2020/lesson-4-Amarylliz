@@ -21,5 +21,8 @@ h2 {
     color:rgb(255, 255, 255);
 }
 .profile-heading {
-    color: white;
+    color: rgb(255, 255, 255);
+}
+.main-area-color {
+    background-color: lightpink;
 }
